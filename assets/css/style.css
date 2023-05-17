@@ -13,18 +13,18 @@ body {
 }
 
 .navbar {
-    background-color: green;
+    background-color: rgb(64, 153, 153);
 }
 
 .navbar-brand {
-    color: white;
+    color: black;
     font-family: 'Open Sans';
     font-weight: 500;
     font-size: 30px;
 }
 
 .nav-link {
-    color: white;
+    color: black;
     font-family: 'Open Sans';
     font-weight: 300;
     font-size: 20px;
@@ -90,7 +90,7 @@ body {
 }
 
 .card-header {
-    background-color: chocolate;
+    background-color: black;
 }
 
 .card {
@@ -106,7 +106,7 @@ body {
 
 .footer {
     display: flex;
-    background-color: green;
+    background-color: rgb(64, 153, 153) ;
     justify-content: space-around;
 }
 
